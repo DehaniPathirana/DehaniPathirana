@@ -74,12 +74,6 @@
   - Developed comprehensive HRMS and AI-powered finance platform
   - Gained hands-on experience in API testing and database validation
   - Collaborated with QA teams in Agile development environment
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dehanipathirana&show_icons=true&locale=en&layout=compact" alt="dehanipathirana" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dehanipathirana&show_icons=true&locale=en" alt="dehanipathirana" /></p>
-
 ---
 
 <p align="center">
