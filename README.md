@@ -52,16 +52,6 @@ AWS | Docker | Jenkins | Git | Linux/Ubuntu | CI/CD Pipelines
 
 ---
 
-<h3 align="left">💼 Professional Experience:</h3>
-
-**Intern Software Engineer (QA-Focused)** – ZeroCode Software (Pvt) Ltd (Feb 2024 – Jul 2024)  
-- Designed and executed manual + automated test cases for web and API layers (Selenium, Postman, REST Assured).  
-- Conducted database testing (MySQL, MongoDB, Oracle) for data accuracy and integrity.  
-- Applied Agile testing practices with JIRA + GitHub for defect tracking and version control.  
-- Contributed to QA for HRMS Development, AI Finance Platform, and Defect Tracking Module.  
-
----
-
 <h3 align="left">📂 Featured Projects:</h3>
 
 - 🚀 **OrangeHRM Test Automation Framework** – Selenium WebDriver framework with Page Object Model + ExtentReports.  
